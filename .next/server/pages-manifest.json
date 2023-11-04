@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/apollo_client": "pages/api/apollo_client.js",
+  "/api/hello": "pages/api/hello.js",
+  "/": "pages/index.html",
+  "/signup": "pages/signup.html",
+  "/verify": "pages/verify.html",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}

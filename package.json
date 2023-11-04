@@ -1,0 +1,31 @@
+{
+  "name": "hr-frontend",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.5.10",
+    "@fortawesome/fontawesome-svg-core": "^1.3.0",
+    "@fortawesome/free-regular-svg-icons": "^6.0.0",
+    "@fortawesome/free-solid-svg-icons": "^6.0.0",
+    "@fortawesome/react-fontawesome": "^0.1.17",
+    "@types/react": "^17.0.40",
+    "aos": "^3.0.0-beta.6",
+    "graphql": "^16.3.0",
+    "jquery": "^3.6.0",
+    "next": "12.0.10",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "typescript": "^4.6.2",
+    "wowjs": "^1.1.3"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "eslint": "8.9.0",
+    "eslint-config-next": "12.0.10"
+  }
+}
