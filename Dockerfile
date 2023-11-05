@@ -21,4 +21,5 @@ COPY . .
 RUN yarn build
 
 # Running the app
-CMD [ "yarn", "start" ]
+# CMD [ "yarn", "start" ]
+CMD [ "next", "start" ]
